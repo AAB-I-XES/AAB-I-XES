@@ -48,7 +48,7 @@
 <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github"/>
 </a>
 
-<a href="https://linkedin.com/in/">
+<a href="https://linkedin.com/in/dibyajyoti-rabha-250671391">
 <img src="https://img.shields.io/badge/LinkedIn-7C3AED?style=for-the-badge&logo=linkedin"/>
 </a>
 
