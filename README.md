@@ -44,11 +44,11 @@
 
 ### 🌐 Connect
 
-<a href="https://github.com/YOUR_USERNAME">
+<a href="https://github.com/AAB-I-XESE">
 <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github"/>
 </a>
 
-<a href="https://linkedin.com/in/YOUR_LINK">
+<a href="https://linkedin.com/in/">
 <img src="https://img.shields.io/badge/LinkedIn-7C3AED?style=for-the-badge&logo=linkedin"/>
 </a>
 
