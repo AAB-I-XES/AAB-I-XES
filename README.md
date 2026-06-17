@@ -1,4 +1,4 @@
-dude put eberything in one code
+
 <div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=38&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=1000&lines=DIBYAJYOTI+RABHA;B.Tech+Student;Full+Stack+Developer;React+%7C+React+Native+Developer;Open+Source+Enthusiast;Linux+User;Building+The+Future+One+Project+At+A+Time" />
