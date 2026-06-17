@@ -80,31 +80,9 @@ Linux         █████████████████████░
 const dibyajyoti = {
   portfolio: "https://naturio.vercel.app",
 
- <H1> currentlyBuilding: [
-    "Web Applications",
-    "Mobile Applications",
-    "Open Source Projects",
-    "Creative UI Experiences"
-  ],
+ 
 
-  learning: [
-    "Advanced React",
-    "System Design",
-    "Cloud Infrastructure",
-    "Backend Architecture"
-  ],
-
-  tools: [
-    "React",
-    "React Native",
-    "Vite",
-    "Tailwind",
-    "Python",
-    "Kotlin",
-    "Linux"
-  ],</H1>
-
-  status: "Building Cool Stuff 🚀"
+status: "Building Cool Stuff 🚀"
 };
 ⚡ TERMINAL
 $ whoami
