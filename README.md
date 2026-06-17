@@ -26,6 +26,7 @@
 🐍 Python Developer
 🎨 UI/UX Enthusiast
 ☁️ Supabase & Cloudflare
+#   Kotlin & jetpack compose
 ```
 
 </td>
