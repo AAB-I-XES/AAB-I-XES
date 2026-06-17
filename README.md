@@ -44,7 +44,7 @@
 
 ### 🌐 Connect
 
-<a href="https://github.com/AAB-I-XESE">
+<a href="https://github.com/AAB-I-XES">
 <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github"/>
 </a>
 
