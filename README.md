@@ -21,12 +21,11 @@
 ### 👨‍💻 About
 
 ```txt
-🎓 B.Tech Student
-⚛️ React & React Native
-🐍 Python Developer
-🎨 UI/UX Enthusiast
-☁️ Supabase & Cloudflare
-#   Kotlin & jetpack compose
+> B.Tech ECE Student
+> React & React Native 
+> UI/UX Enthusiast
+> Supabase & Cloudflare
+> Kotlin & jetpack compose
 ```
 
 </td>
