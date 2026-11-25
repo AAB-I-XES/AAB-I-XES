@@ -4,7 +4,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:000000,50:7C3AED,100:FFFFFF&section=header"/>
 
-### ⚡ Building modern apps with React, React Native & Python
+### ⚡ Building  hardware & modern apps with React, React Native & Python
 
 <p>
   <img src="https://skillicons.dev/icons?i=react,vite,tailwind,js,python,kotlin,c,supabase,linux,git" />
@@ -18,7 +18,7 @@
 <tr>
 <td width="50%">
 
-### 👨‍💻 About
+###  About
 
 ```txt
 > B.Tech ECE Student
@@ -32,7 +32,7 @@
 
 <td width="50%">
 
-### 📊 Stats
+###  Stats
 
 <img height="140" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&theme=midnight-purple"/>
 
@@ -42,7 +42,7 @@
 
 <div align="center">
 
-### 🌐 Connect
+###  Connect
 
 <a href="https://github.com/AAB-I-XES">
 <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github"/>
